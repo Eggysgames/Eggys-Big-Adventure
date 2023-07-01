@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 317bcb2ab88d7114cbb34082e70720ef
+timeCreated: 1514134981
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Cheri Liney
+  fontNames:
+  - Cheri Liney
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

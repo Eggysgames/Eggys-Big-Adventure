@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 31d5c8a64205f504db6daeb8d97c0dd2
+timeCreated: 1514332517
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Centaur Festive MT Italic
+  fontNames:
+  - Centaur Festive MT Italic
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

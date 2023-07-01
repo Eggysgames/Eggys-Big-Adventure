@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: fe4a94b42f4429847841216d6722cb24
+timeCreated: 1514332519
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: aaaiight! fat
+  fontNames:
+  - aaaiight! fat
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

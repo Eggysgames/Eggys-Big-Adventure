@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: fb131e2019c928142bb0ce0d87ce0a8e
+timeCreated: 1514332519
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Courier New
+  fontNames:
+  - Courier New
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 96619201200e1104681ec0567b6f5ab8, type: 3}
+  - {fileID: 12800000, guid: ced756f30d3f35d4cb52cc91f33d6def, type: 3}
+  - {fileID: 12800000, guid: e97bb9778f31719419afff29ddb86230, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

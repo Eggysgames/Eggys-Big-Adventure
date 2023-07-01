@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: eec2ba5c15b7bcd4394b317d772ef94f
+timeCreated: 1514332519
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: woodcutter executive
+  fontNames:
+  - woodcutter executive
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

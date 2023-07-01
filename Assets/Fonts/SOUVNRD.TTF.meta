@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 26ef1d6a5856097488b1cec464cf603f
+timeCreated: 1514332517
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Souvenir Lt BT
+  fontNames:
+  - Souvenir Lt BT
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 011bb638d71d92546802fefa99918f13, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

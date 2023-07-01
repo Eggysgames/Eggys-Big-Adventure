@@ -1,0 +1,145 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 41d2c31b23abfaf428de47901a38c864
+  - enabled: 1
+    path: Assets/Scenes/_MainMenu.unity
+    guid: 031b05ee748fa4b4186379effd58d809
+  - enabled: 1
+    path: Assets/Scenes/Cutscene.unity
+    guid: c6b0d51b33ed9314b9ca1fb954e52733
+  - enabled: 1
+    path: Assets/Scenes/Home.unity
+    guid: d894cd21df6625d488cfd1f8f90559b6
+  - enabled: 1
+    path: Assets/Scenes/House.unity
+    guid: bae4719acad14d14caeafedbeb2096ec
+  - enabled: 1
+    path: Assets/Scenes/House3.unity
+    guid: 47928eb15b0b82f43ac6004e23c22348
+  - enabled: 1
+    path: Assets/Scenes/House2.unity
+    guid: e01a4233fb6295c418d098ac0967c530
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: 964a9a8bf5b2e2a4a94046664ecdffbf
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: ed495904a1c3c0747b74ab542fad4365
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: c35ced19ecfa49b4681ba11c70dcb222
+  - enabled: 1
+    path: Assets/Scenes/Level5.unity
+    guid: 464803e7f45496a4e8627736bd3dd1e4
+  - enabled: 1
+    path: Assets/Scenes/Level4.unity
+    guid: d18b198e9c5db1a4ab7f934bba5aba75
+  - enabled: 1
+    path: Assets/Scenes/Level6.unity
+    guid: acaeba9041b946b4bb2c38efb89159f2
+  - enabled: 1
+    path: Assets/Scenes/Level7.unity
+    guid: 3cd2c872d57facc4c962a4efaaf2b07d
+  - enabled: 1
+    path: Assets/Scenes/Level8.unity
+    guid: 7a9ca2708536a2a46bbb967f3c418973
+  - enabled: 1
+    path: Assets/Scenes/Level9.unity
+    guid: d626a944d675ce844bc92d913f1ffa65
+  - enabled: 1
+    path: Assets/Scenes/Level10.unity
+    guid: 977048721cf298d4c94846fe28bc581b
+  - enabled: 1
+    path: Assets/Scenes/Level11.unity
+    guid: 1adb61c5798ff6549a473411ca484415
+  - enabled: 0
+    path: 
+    guid: 28d3dbc77659a4841852a0ea18199dcf
+  - enabled: 1
+    path: Assets/Scenes/Level12.unity
+    guid: 694f1aa720e7ac049bcdfe9218c1d949
+  - enabled: 1
+    path: Assets/Scenes/Level13.unity
+    guid: 4e2fb93af7814984a9041c3cf1dd5e40
+  - enabled: 1
+    path: Assets/Scenes/Level14.unity
+    guid: a7b1e37b63914d844b140778fe0bc219
+  - enabled: 1
+    path: Assets/Scenes/Level15.unity
+    guid: 856ea483496e22c4fb0ddc1bcf0a64ab
+  - enabled: 1
+    path: Assets/Scenes/Level16.unity
+    guid: 8654a7fdc51220943a1a860889c1b7b2
+  - enabled: 1
+    path: Assets/Scenes/Level17.unity
+    guid: 89e4effeaa167bc4aa9e7ade22fc1ab7
+  - enabled: 1
+    path: Assets/Scenes/Level18.unity
+    guid: 98cbe106a14f70a499e849375506a287
+  - enabled: 1
+    path: Assets/Scenes/Level20.unity
+    guid: 6fe523a4eecd6b34eb7b5b62ded5661f
+  - enabled: 1
+    path: Assets/Scenes/Level19.unity
+    guid: 2961e495f0e8ad74bb5328a6c069d1f2
+  - enabled: 1
+    path: Assets/Scenes/Level21.unity
+    guid: 15b9ee7f47bdb854f86ee7d39c048885
+  - enabled: 1
+    path: Assets/Scenes/Level22.unity
+    guid: 322de7cd4011c23438e302bb7ae28373
+  - enabled: 1
+    path: Assets/Scenes/Secret1.unity
+    guid: 80b75159a0be6d142a38cf2b692df9e1
+  - enabled: 1
+    path: Assets/Scenes/Z_Ending.unity
+    guid: 2940cefa7b92a0d4e8ef99a28c81418a
+  - enabled: 0
+    path: 
+    guid: 702ed4b93de75a24b8c6023fe5f8d67d
+  - enabled: 0
+    path: 
+    guid: 630e76c3380548046a65ca277565a374
+  - enabled: 0
+    path: 
+    guid: bbb43d496fdb39c42a9bea774f2f53f8
+  - enabled: 0
+    path: 
+    guid: 5d777551c192e24408717e82b5a14391
+  - enabled: 0
+    path: 
+    guid: b2703cd8f4ba99d41adfa30fbad4d50f
+  - enabled: 0
+    path: 
+    guid: 275ffc981d98fdb4bb89e49ddbfa4d09
+  - enabled: 0
+    path: 
+    guid: eabf9cbbdc08b0a4f8f070196423361f
+  - enabled: 0
+    path: 
+    guid: 4138f6a43f789634aa603d163740c4db
+  - enabled: 0
+    path: 
+    guid: e8f3cfe53c4924f4085c1c1346196a26
+  - enabled: 0
+    path: 
+    guid: 64d378329f42d8c44bb13c6d40ca8197
+  - enabled: 0
+    path: 
+    guid: ac66ec295ff8bbf4abbd39cebb19893b
+  - enabled: 0
+    path: 
+    guid: 13bdbde9fe8d8af45a9137e8dd30623e
+  - enabled: 0
+    path: 
+    guid: 067bc6bfd04ef2a4495918c45484d68b
+  - enabled: 0
+    path: 
+    guid: 7273f9e66bb5a824ba0952421621bef8

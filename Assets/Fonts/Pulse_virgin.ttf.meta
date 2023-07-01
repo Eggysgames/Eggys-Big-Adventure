@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: c0a20f12baee83249be3d78b36e53b65
+timeCreated: 1514332518
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: pulse sans virgin
+  fontNames:
+  - pulse sans virgin
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

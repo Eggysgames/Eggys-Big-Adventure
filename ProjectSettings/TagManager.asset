@@ -1,0 +1,87 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - lefthit
+  - righthit
+  - Spring
+  - Ele
+  - Spike
+  - Eggs
+  - Door
+  - enemylefthit
+  - enemyrighthit
+  - Ground
+  - Breakable
+  - Water
+  - StickTo
+  - LittleEye
+  - BubbleSpawner
+  - BigEye
+  - TNT
+  - Soccerball
+  - cloud
+  - box
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 2886665035
+    locked: 0
+  - name: Foreground 2
+    uniqueID: 3172647873
+    locked: 0
+  - name: Foreground
+    uniqueID: 884611337
+    locked: 0
+  - name: Front 2
+    uniqueID: 415076597
+    locked: 0
+  - name: Front
+    uniqueID: 2925589795
+    locked: 0
+  - name: Obstacles
+    uniqueID: 3350763635
+    locked: 0
+  - name: PreFront
+    uniqueID: 2653600703
+    locked: 0
+  - name: InFrontofPlayer
+    uniqueID: 2758276841
+    locked: 0

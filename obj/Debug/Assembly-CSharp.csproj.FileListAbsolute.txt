@@ -1,0 +1,104 @@
+C:\Users\Bradley\Desktop\Unity\Random\Platformer Engine\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Bradley\Desktop\Unity\Random\Platformer Engine\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Bradley\Desktop\Unity\Random\Platformer Engine\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Bradley\Desktop\Unity\Random\Platformer Engine\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Bradley\Desktop\Unity\Random\Platformer Engine\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Bradley\Desktop\Unity\Random\Platformer Engine\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Bradley\Desktop\Unity\Random\Platformer Engine\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Bradley\Desktop\Unity\Random\Platformer Engine\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Bradley\Desktop\Unity\Random\Platformer Engine\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\Bradley\Desktop\Unity\Random\Platformer Engine\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\Bradley\Desktop\Unity\Random\Platformer Engine\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Bradley\Desktop\Unity\Random\Platformer Engine\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Bradley\Desktop\Unity\Random\Platformer Engine\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Bradley\Desktop\Unity\Random\Platformer Engine\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Bradley\Desktop\Unity\Random\Platformer Engine\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\Bradley\Desktop\Unity\Random\Platformer Engine\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\Bradley\Desktop\Unity\Random\Platformer Engine\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Bradley\Desktop\Unity\Random\Platformer Engine\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Bradley\Desktop\Unity\Random\Platformer Engine\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Bradley\Desktop\Unity\Random\Platformer Engine\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Bradley\Desktop\Unity\Random\Platformer Engine\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Bradley\Desktop\Unity\Random\Platformer Engine\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Bradley\Desktop\Unity\Random\Platformer Engine\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Bradley\Desktop\Unity\Random\Platformer Engine\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Bradley\Desktop\Unity\Random\Platformer Engine\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\Bradley\Desktop\Unity\Random\Platformer Engine\Temp\bin\Debug\nunit.framework.xml
+C:\Users\Bradley\Desktop\Unity\Random\Platformer Engine\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\Bradley\Desktop\Unity\Random\Platformer Engine\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Bradley\Desktop\Unity\Random\Platformer Engine\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Bradley\Desktop\Unity\Random\Platformer Engine\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Bradley\Desktop\Unity\Random\Platformer Engine\obj\Debug\Assembly-CSharp.dll
+C:\Users\Bradley\Desktop\Unity\Random\Platformer Engine\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Bradley\Desktop\Unity\Random\Eggys Big Adventure\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Bradley\Desktop\Unity\Random\Eggys Big Adventure\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Bradley\Desktop\Unity\Random\Eggys Big Adventure\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Bradley\Desktop\Unity\Random\Eggys Big Adventure\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Bradley\Desktop\Unity\Random\Eggys Big Adventure\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Bradley\Desktop\Unity\Random\Eggys Big Adventure\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Bradley\Desktop\Unity\Random\Eggys Big Adventure\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Bradley\Desktop\Unity\Random\Eggys Big Adventure\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Bradley\Desktop\Unity\Random\Eggys Big Adventure\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\Bradley\Desktop\Unity\Random\Eggys Big Adventure\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\Bradley\Desktop\Unity\Random\Eggys Big Adventure\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Bradley\Desktop\Unity\Random\Eggys Big Adventure\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Bradley\Desktop\Unity\Random\Eggys Big Adventure\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Bradley\Desktop\Unity\Random\Eggys Big Adventure\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Bradley\Desktop\Unity\Random\Eggys Big Adventure\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\Bradley\Desktop\Unity\Random\Eggys Big Adventure\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\Bradley\Desktop\Unity\Random\Eggys Big Adventure\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Bradley\Desktop\Unity\Random\Eggys Big Adventure\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Bradley\Desktop\Unity\Random\Eggys Big Adventure\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Bradley\Desktop\Unity\Random\Eggys Big Adventure\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Bradley\Desktop\Unity\Random\Eggys Big Adventure\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Bradley\Desktop\Unity\Random\Eggys Big Adventure\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Bradley\Desktop\Unity\Random\Eggys Big Adventure\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Bradley\Desktop\Unity\Random\Eggys Big Adventure\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Bradley\Desktop\Unity\Random\Eggys Big Adventure\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\Bradley\Desktop\Unity\Random\Eggys Big Adventure\Temp\bin\Debug\nunit.framework.xml
+C:\Users\Bradley\Desktop\Unity\Random\Eggys Big Adventure\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\Bradley\Desktop\Unity\Random\Eggys Big Adventure\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Bradley\Desktop\Unity\Random\Eggys Big Adventure\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Bradley\Desktop\Unity\Random\Eggys Big Adventure\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Bradley\Desktop\Unity\Random\Eggys Big Adventure\obj\Debug\Assembly-CSharp.dll
+C:\Users\Bradley\Desktop\Unity\Random\Eggys Big Adventure\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Bradley\Desktop\Unity\Random\Eggys Big Adventure\Temp\bin\Debug\ChannelPurchase.dll
+C:\Users\Bradley\Desktop\Unity\Random\Eggys Big Adventure\Temp\bin\Debug\UnityStore.dll
+C:\Users\Bradley\Desktop\Unity\Random\Eggys Big Adventure\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Eggy\Desktop\Eggys Games\3 Unity\3 Finished\Eggys Big Adventure\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Eggy\Desktop\Eggys Games\3 Unity\3 Finished\Eggys Big Adventure\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Eggy\Desktop\Eggys Games\3 Unity\3 Finished\Eggys Big Adventure\Temp\bin\Debug\ChannelPurchase.dll
+C:\Users\Eggy\Desktop\Eggys Games\3 Unity\3 Finished\Eggys Big Adventure\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Eggy\Desktop\Eggys Games\3 Unity\3 Finished\Eggys Big Adventure\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Eggy\Desktop\Eggys Games\3 Unity\3 Finished\Eggys Big Adventure\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Eggy\Desktop\Eggys Games\3 Unity\3 Finished\Eggys Big Adventure\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Eggy\Desktop\Eggys Games\3 Unity\3 Finished\Eggys Big Adventure\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Eggy\Desktop\Eggys Games\3 Unity\3 Finished\Eggys Big Adventure\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Eggy\Desktop\Eggys Games\3 Unity\3 Finished\Eggys Big Adventure\Temp\bin\Debug\UnityEngine.TestRunner.dll
+C:\Users\Eggy\Desktop\Eggys Games\3 Unity\3 Finished\Eggys Big Adventure\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\Eggy\Desktop\Eggys Games\3 Unity\3 Finished\Eggys Big Adventure\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Eggy\Desktop\Eggys Games\3 Unity\3 Finished\Eggys Big Adventure\Temp\bin\Debug\UnityStore.dll
+C:\Users\Eggy\Desktop\Eggys Games\3 Unity\3 Finished\Eggys Big Adventure\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Eggy\Desktop\Eggys Games\3 Unity\3 Finished\Eggys Big Adventure\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Eggy\Desktop\Eggys Games\3 Unity\3 Finished\Eggys Big Adventure\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Eggy\Desktop\Eggys Games\3 Unity\3 Finished\Eggys Big Adventure\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\Eggy\Desktop\Eggys Games\3 Unity\3 Finished\Eggys Big Adventure\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\Eggy\Desktop\Eggys Games\3 Unity\3 Finished\Eggys Big Adventure\Temp\bin\Debug\Unity.UNetWeaver.dll
+C:\Users\Eggy\Desktop\Eggys Games\3 Unity\3 Finished\Eggys Big Adventure\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Eggy\Desktop\Eggys Games\3 Unity\3 Finished\Eggys Big Adventure\Temp\bin\Debug\Mono.Cecil.Pdb.dll
+C:\Users\Eggy\Desktop\Eggys Games\3 Unity\3 Finished\Eggys Big Adventure\Temp\bin\Debug\Mono.Cecil.Mdb.dll
+C:\Users\Eggy\Desktop\Eggys Games\3 Unity\3 Finished\Eggys Big Adventure\Temp\bin\Debug\Assembly-CSharp-firstpass.pdb
+C:\Users\Eggy\Desktop\Eggys Games\3 Unity\3 Finished\Eggys Big Adventure\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Eggy\Desktop\Eggys Games\3 Unity\3 Finished\Eggys Big Adventure\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Eggy\Desktop\Eggys Games\3 Unity\3 Finished\Eggys Big Adventure\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Eggy\Desktop\Eggys Games\3 Unity\3 Finished\Eggys Big Adventure\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Eggy\Desktop\Eggys Games\3 Unity\3 Finished\Eggys Big Adventure\Temp\bin\Debug\UnityEngine.TestRunner.xml
+C:\Users\Eggy\Desktop\Eggys Games\3 Unity\3 Finished\Eggys Big Adventure\Temp\bin\Debug\nunit.framework.xml
+C:\Users\Eggy\Desktop\Eggys Games\3 Unity\3 Finished\Eggys Big Adventure\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\Eggy\Desktop\Eggys Games\3 Unity\3 Finished\Eggys Big Adventure\Temp\bin\Debug\UnityEngine.Analytics.xml
+C:\Users\Eggy\Desktop\Eggys Games\3 Unity\3 Finished\Eggys Big Adventure\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Eggy\Desktop\Eggys Games\3 Unity\3 Finished\Eggys Big Adventure\obj\Debug\Assembly-CSharp.csproj.AssemblyReference.cache
+C:\Users\Eggy\Desktop\Eggys Games\3 Unity\3 Finished\Eggys Big Adventure\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Eggy\Desktop\Eggys Games\3 Unity\3 Finished\Eggys Big Adventure\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+C:\Users\Eggy\Desktop\Eggys Games\3 Unity\3 Finished\Eggys Big Adventure\obj\Debug\Assembly-CSharp.dll
+C:\Users\Eggy\Desktop\Eggys Games\3 Unity\3 Finished\Eggys Big Adventure\obj\Debug\Assembly-CSharp.pdb

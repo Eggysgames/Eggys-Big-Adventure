@@ -1,0 +1,833 @@
+fileFormatVersion: 2
+guid: cd2526392cf1a0c40854f02f717a1372
+timeCreated: 1514784396
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: IdleBlob_0
+    21300002: IdleBlob_1
+    21300004: IdleBlob_2
+    21300006: IdleBlob_3
+    21300008: IdleBlob_4
+    21300010: IdleBlob_5
+    21300012: IdleBlob_6
+    21300014: IdleBlob_7
+    21300016: IdleBlob_8
+    21300018: IdleBlob_9
+    21300020: IdleBlob_10
+    21300022: IdleBlob_11
+    21300024: IdleBlob_12
+    21300026: IdleBlob_13
+    21300028: IdleBlob_14
+    21300030: IdleBlob_15
+    21300032: IdleBlob_16
+    21300034: IdleBlob_17
+    21300036: IdleBlob_18
+    21300038: IdleBlob_19
+    21300040: IdleBlob_20
+    21300042: IdleBlob_21
+    21300044: IdleBlob_22
+    21300046: IdleBlob_23
+    21300048: IdleBlob_24
+    21300050: IdleBlob_25
+    21300052: IdleBlob_26
+    21300054: IdleBlob_27
+    21300056: IdleBlob_28
+    21300058: IdleBlob_29
+    21300060: IdleBlob_30
+    21300062: IdleBlob_31
+    21300064: IdleBlob_32
+    21300066: IdleBlob_33
+    21300068: IdleBlob_34
+    21300070: IdleBlob_35
+    21300072: IdleBlob_36
+    21300074: IdleBlob_37
+    21300076: IdleBlob_38
+    21300078: IdleBlob_39
+    21300080: IdleBlob_40
+    21300082: IdleBlob_41
+    21300084: IdleBlob_42
+    21300086: IdleBlob_43
+    21300088: IdleBlob_44
+    21300090: IdleBlob_45
+    21300092: IdleBlob_46
+    21300094: IdleBlob_47
+    21300096: IdleBlob_48
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 2
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: IdleBlob_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 444
+        width: 43
+        height: 67
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IdleBlob_1
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 444
+        width: 43
+        height: 67
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IdleBlob_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 444
+        width: 43
+        height: 66
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IdleBlob_3
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 444
+        width: 43
+        height: 66
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IdleBlob_4
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 444
+        width: 43
+        height: 66
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IdleBlob_5
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 444
+        width: 43
+        height: 65
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IdleBlob_6
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 444
+        width: 43
+        height: 64
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IdleBlob_7
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 444
+        width: 43
+        height: 64
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IdleBlob_8
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 444
+        width: 43
+        height: 64
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IdleBlob_9
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 444
+        width: 43
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IdleBlob_10
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 444
+        width: 43
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IdleBlob_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 376
+        width: 43
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IdleBlob_12
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 376
+        width: 43
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IdleBlob_13
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 376
+        width: 43
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IdleBlob_14
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 376
+        width: 43
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IdleBlob_15
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 376
+        width: 43
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IdleBlob_16
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 376
+        width: 43
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IdleBlob_17
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 376
+        width: 43
+        height: 64
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IdleBlob_18
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 376
+        width: 43
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IdleBlob_19
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 376
+        width: 43
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IdleBlob_20
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 376
+        width: 43
+        height: 63
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IdleBlob_21
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 376
+        width: 43
+        height: 64
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IdleBlob_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 308
+        width: 43
+        height: 64
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IdleBlob_23
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 308
+        width: 43
+        height: 64
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IdleBlob_24
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 308
+        width: 43
+        height: 65
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IdleBlob_25
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 308
+        width: 43
+        height: 65
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IdleBlob_26
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 308
+        width: 43
+        height: 65
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IdleBlob_27
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 308
+        width: 43
+        height: 66
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IdleBlob_28
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 308
+        width: 43
+        height: 66
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IdleBlob_29
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 308
+        width: 43
+        height: 66
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IdleBlob_30
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 308
+        width: 43
+        height: 66
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IdleBlob_31
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 308
+        width: 43
+        height: 66
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IdleBlob_32
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 308
+        width: 43
+        height: 66
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IdleBlob_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 43
+        height: 66
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IdleBlob_34
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 240
+        width: 43
+        height: 66
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IdleBlob_35
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 240
+        width: 43
+        height: 66
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IdleBlob_36
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 240
+        width: 43
+        height: 66
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IdleBlob_37
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 240
+        width: 43
+        height: 67
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IdleBlob_38
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 240
+        width: 43
+        height: 66
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IdleBlob_39
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 240
+        width: 43
+        height: 66
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IdleBlob_40
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 240
+        width: 43
+        height: 67
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IdleBlob_41
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 240
+        width: 43
+        height: 67
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IdleBlob_42
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 241
+        width: 43
+        height: 66
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IdleBlob_43
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 241
+        width: 43
+        height: 66
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IdleBlob_44
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 173
+        width: 43
+        height: 66
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IdleBlob_45
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 173
+        width: 43
+        height: 66
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IdleBlob_46
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 173
+        width: 43
+        height: 66
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IdleBlob_47
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 173
+        width: 43
+        height: 66
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: IdleBlob_48
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 173
+        width: 43
+        height: 66
+      alignment: 5
+      pivot: {x: 1, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

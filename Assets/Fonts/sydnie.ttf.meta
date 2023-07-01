@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 98e7aabf30d09924db27e3181d407f60
+timeCreated: 1514332518
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Sydnie
+  fontNames:
+  - Sydnie
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

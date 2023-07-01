@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: cf3c64f3ef828694b9f4f145c98eb2c8
+timeCreated: 1514332519
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Courier New Cyr
+  fontNames:
+  - Courier New Cyr
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

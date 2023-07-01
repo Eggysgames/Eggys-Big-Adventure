@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 1c198083f1175c84f8df5b10810f73b6
+timeCreated: 1514332517
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Vtks Revolt
+  fontNames:
+  - Vtks Revolt
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
